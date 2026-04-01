@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'c42e07ef208648e0bc6c6eddb480b106',
+  rootNotionPageId: '335f95f2776880e1926fe4e2aefa8667',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Juniahaha',
-  domain: 'https://sequoia-close-b21.notion.site/Fenny-Zheng-Portfolio-c42e07ef208648e0bc6c6eddb480b106',
+  domain: 'https://sequoia-close-b21.notion.site/335f95f2776880e1926fe4e2aefa8667?source=copy_link',
   author: 'Junia',
 
   // open graph metadata (optional)
