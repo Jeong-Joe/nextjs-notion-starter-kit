@@ -9,8 +9,8 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Junia's world',
-  domain: 'https://www.notion.so/Fenny-Zheng-Portfolio-c42e07ef208648e0bc6c6eddb480b106?source=copy_link',
+  name: 'Juniahaha',
+  domain: 'https://sequoia-close-b21.notion.site/Fenny-Zheng-Portfolio-c42e07ef208648e0bc6c6eddb480b106',
   author: 'Junia',
 
   // open graph metadata (optional)
